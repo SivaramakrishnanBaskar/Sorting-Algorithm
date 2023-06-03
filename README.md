@@ -64,6 +64,11 @@ value=insertion_sort(list_of_nums)
 print(value)
 ```
 ## Output:
+1) Selection Sort: 
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/54f43818-ecbd-4cd6-ad25-35826dfb35f5)
+
+2) Insertion Sort
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/e1839274-805e-48f4-8dd5-d239e9382774)
 
 
 ## Result:

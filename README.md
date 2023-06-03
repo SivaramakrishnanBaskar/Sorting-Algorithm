@@ -64,10 +64,10 @@ value=insertion_sort(list_of_nums)
 print(value)
 ```
 ## Output:
-1) Selection Sort: 
+# 1) Selection Sort: 
 ![selection sort](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/858a0c84-01e6-4b67-968a-c46688e90918)
 
-2) Insertion Sort
+# 2) Insertion Sort
 ![insertion sort](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/512f71c0-7a4c-479d-8644-6d0780864e73)
 
 ## Result:

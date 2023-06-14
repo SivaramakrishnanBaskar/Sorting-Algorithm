@@ -65,10 +65,14 @@ print(value)
 ```
 ## Output:
 # 1) Selection Sort: 
-![selection sort](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/858a0c84-01e6-4b67-968a-c46688e90918)
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/9a1b2c27-2012-4b11-bebf-97a4a3db6067)
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/b3d6c4e6-c091-4479-b385-1bafb3404aed)
+
 
 # 2) Insertion Sort
-![insertion sort](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/512f71c0-7a4c-479d-8644-6d0780864e73)
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/f21d2bb6-51ff-4139-a4ac-635f244c58c0)
+![image](https://github.com/SivaramakrishnanBaskar/Sorting-Algorithm/assets/119476322/6f0a42bd-8714-44d8-904d-830f71e96d5d)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
